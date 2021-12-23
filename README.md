@@ -1,6 +1,6 @@
 # Hey 👋,
 
-My name is Brian and I'm a web developer from California. I am interested in contributing to open source, helping new developers grow and leveling up my skills!
+My name is Brian and I'm a developer from California. I am interested in contributing to open source, helping new developers grow and leveling up my skills!
 
 ---
 ## Tech
