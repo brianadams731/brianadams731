@@ -1,6 +1,6 @@
 # Hey 👋,
 
-My name is Brian and I'm a developer from California. I am interested in contributing to open source, helping new developers grow and leveling up my skills!
+My name is Brian and I'm a developer who graduated from San Francisco State University with a BS in CS. I am interested in contributing to open source, helping new developers grow and leveling up my skills!
 
 ---
 ## Tech
