@@ -14,6 +14,8 @@ My name is Brian and I'm a developer from California. I am interested in contrib
 - Python
 - Flask
 - Java
+- C#
+- ASP.NET
 - C++
 ---
 
